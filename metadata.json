@@ -1,0 +1,8 @@
+{
+  "name": "Physics Lab Game",
+  "description": "Interactive 2D physics laboratory and puzzle game featuring projectile trajectories, energy conservation, fluid buoyancy, double pendulums, and a full creative sandbox.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
